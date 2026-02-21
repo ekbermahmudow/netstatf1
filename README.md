@@ -1,4 +1,4 @@
-# netstatf1
+
 
 ## Layihə haqqında
 **netstatf1** Linux/Unix mühitində şəbəkə bağlantılarını izləmək və sistemdə açıq portları yoxlamaq üçün hazırlanmış sadə **netstat əsaslı** utilitidir. Layihənin məqsədi, sistem administratorları və kiber təhlükəsizliklə maraqlananlar üçün şəbəkə trafiki və socket vəziyyətlərini daha rahat analiz etməyə kömək etməkdir.
