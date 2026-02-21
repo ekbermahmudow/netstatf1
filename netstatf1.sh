@@ -1,14 +1,16 @@
 #!/bin/bash
-# netstatf1 Bash implementation
 
-# Function to display network connections
-function show_connections() {
-    netstat -an | grep -i listen
+# Full-featured colorized ss/netstat based CLI
+
+# Include necessary libraries
+source src/colors.sh
+
+# CLI usage and options
+
+# Main function to handle user input
+main() {
+    # Your code here to handle CLI options and functionalities
 }
 
-# Main
-if [[ "$1" == "--list" ]]; then
-    show_connections
-else
-    echo "Usage: netstatf1.sh --list"
-fi
+# Execute main function
+main
